@@ -16,3 +16,4 @@ git pull – to pull from remote repository to our local repository.
 git branch – gives current branch.
 git checkout -b “name of the branch” – used to create a branch
 git checkout branch – used to change the branch.
+git merge branchname - used to merge two branches

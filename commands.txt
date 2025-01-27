@@ -1,0 +1,18 @@
+					GIT Commands
+
+Distributed Version Control System.
+git init – Creates/Reinitialize a  new local repository. 
+Open file location in terminal, use “git clone URL”.
+git add Filename – gets the file from unstage to stage and make ready to commit.
+git commit -m “message” – get the file saved in local.
+git push origin branch – pushes to the remote repository.
+git commit -a -m “message” – get the file unstage directly to commit.
+git status – shows what files are modified, stage/unstage.
+git log – shows who made what changes with time.
+git diff- shows what changes has been made.
+git diff –staged - shows what changes has been made to a file in a staging area.
+git rm –cached filename – remove file
+git pull – to pull from remote repository to our local repository.
+git branch – gives current branch.
+git checkout -b “name of the branch” – used to create a branch
+git checkout branch – used to change the branch.

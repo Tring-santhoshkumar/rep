@@ -21,3 +21,4 @@ git checkout "name of the file's branch" "file name with extension" - to add a f
 git checkout -m "new name of the branch" - to change branch name in local repository.
 git push origin --delete "old branch name" - to delete the old branch's name in remote.
 git push origin -u "new branch name" - to push the new branch to remote(Sets as upstream).
+git restore --staged "file Name" - to unstage an staged file.
